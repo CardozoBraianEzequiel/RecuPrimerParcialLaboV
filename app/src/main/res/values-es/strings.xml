@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecuPrimerParcialLaboV</string>
+    <string name="tvMarca">Marca</string>
+    <string name="tvModelo">Modelo</string>
+    <string name="tvId">Id</string>
+    <string name="tvAnio">Año</string>
+    <string name="btnEditar">Editar</string>
+</resources>
